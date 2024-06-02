@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+background-color: rgb(39, 160, 9);
+color: cyan;
+}
+.link-header, .link-nav {
+    border:10px solid yellow ;
+    padding:10px;
+    background-color: cornsilk;
+    }
+    h1{text-align: center;}
+    nav{margin: 50px;}
